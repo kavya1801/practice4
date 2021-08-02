@@ -1,0 +1,12 @@
+body{
+    background-color:seashell;
+}
+h1{
+    color:red;
+    margin-left: 20px;
+}
+p{
+    color:darkblue;
+    font-size:x-large;
+    font-family: cursive;
+}
